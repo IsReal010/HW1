@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 # Israel Andrade
 ## Z23632800
-### Header 3
+
 
 - Bulleted
 - List
